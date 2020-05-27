@@ -1,3 +1,6 @@
+'''Author - MD. ELIOUS ALI MONDAL
+   Created - 30/7/2017'''
+
 import random
 import turtle
 from math import *
